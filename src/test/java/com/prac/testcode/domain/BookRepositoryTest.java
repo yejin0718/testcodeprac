@@ -126,3 +126,5 @@ public class BookRepositoryTest {
 	}
 
 }
+
+//실제 서벌 테스트 할 때는 id 검증 하지말기 값만 검증하기
